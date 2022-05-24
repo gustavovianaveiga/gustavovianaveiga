@@ -1,4 +1,4 @@
-## Opaa, meu nome é gustavo viana, tenho 16 anos, e estou aprendendo a progragamar
+## Opaa, meu nome é gustavo viana, tenho 17 anos, e estou aprendendo a programar
 <div align="center">
   <a href="https://github.com/gustavovianaveiga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavovianaveiga&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
