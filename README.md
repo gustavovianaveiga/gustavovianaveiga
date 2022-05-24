@@ -1,6 +1,6 @@
 ## Opaa, meu nome é gustavo viana, e estou em busca de aprender novas tecnologias.
 
--atualmente estudando ReactJS
+-atualmente estudando ReactJS<br/>
 -Front-End
 
 <div align="center">
