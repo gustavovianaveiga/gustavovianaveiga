@@ -1,7 +1,23 @@
-## Opaa, meu nome é gustavo viana, e estou em busca de aprender novas tecnologias.
-
--atualmente estudando ReactJS<br/>
--Front-End
+## Bem-vindo
+<div align="center">
+    <h1>Ei, obrigado pela sua visita! 🖖🏿</h1>
+</div>
+<div>
+    <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
+    <div align="left"><br>
+        <p>🗺️ moro no <strong>Brasil</strong>, mais especificamente no estado da <strong>Bahia</strong>.</p>
+        <p>🧠 Habilidades: <strong>HTML</strong>, <strong>CSS</strong>, <strong>ReactJS</strong>, <strong>VueJS</strong>, <strong>Git</strong> e <strong>GitHub</strong>.</p>
+        <p>📚 Sempre aberto à novas oportunidades.<p>
+        <p align="left">
+		<a href="https://www.linkedin.com/in/eduardzs/">
+		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="mailto:eduardofonseca0210@gmail.com?" alt="Gmail">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+		<a href="https://www.instagram.com/eduardzs_/" alt="Instagram">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+     </div>
+</div><br>
+    <h1 align="center">⚙️ GitHub Analytics</h1>
 
 <div align="center">
   <a href="https://github.com/gustavovianaveiga">
