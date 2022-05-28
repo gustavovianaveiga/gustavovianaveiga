@@ -1,6 +1,6 @@
 ## Bem-vindo
 <div align="center">
-    <h1>Ei, obrigado pela sua visita! 🖖🏿</h1>
+    <h1>Seja bem-vindo🏿</h1>
 </div>
 <div>
     <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
