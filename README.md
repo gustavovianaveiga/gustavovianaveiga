@@ -1,6 +1,6 @@
-## Bem-vindo
+## Aceita um café?
 <div align="center">
-    <h1>-Fique avontade-</h1>
+    <h1>Bem-vindo</h1>
 </div>
 <div>
     <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
