@@ -1,12 +1,12 @@
 ## Bem-vindo
 <div align="center">
-    <h1>Fique avontade</h1>
+    <h1>-Fique avontade-</h1>
 </div>
 <div>
     <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
     <div align="left"><br>
         <p>🗺️ moro no <strong>Brasil</strong>, mais especificamente no estado da <strong>Bahia</strong>.</p>
-        <p>🧠 Habilidades: <strong>HTML</strong>, <strong>CSS</strong>, <strong>ReactJS</strong>, <strong>VueJS</strong>, <strong>Git</strong> e <strong>GitHub</strong>.</p>
+        <p>🧠 Habilidades: <strong>HTML</strong>, <strong>CSS</strong>,<strong>JS</strong>, <strong>ReactJS</strong>, <strong>VueJS</strong>, <strong>Git</strong> e <strong>GitHub</strong>.</p>
         <p>📚 Sempre aberto à novas oportunidades.<p>
         <p align="left">
 		<a href="https://www.linkedin.com/in/eduardzs/">
