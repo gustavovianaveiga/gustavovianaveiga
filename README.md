@@ -6,7 +6,7 @@
     <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
     <div align="left"><br>
         <p>🗺️ moro no <strong>Brasil</strong>, mais especificamente no estado da <strong>Bahia</strong>.</p>
-        <p>🧠 Habilidades: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JS</strong>, <strong>ReactJS</strong>, <strong>VueJS</strong>, <strong>Git</strong> e <strong>GitHub</strong>.</p>
+        <p>🧠 Habilidades: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JS</strong>, <strong>ReactJS</strong>, <strong>Git</strong> e <strong>GitHub</strong>.</p>
         <p>📚 Sempre aberto à novas oportunidades.<p>
         <p align="left">
 		<a href="https://www.linkedin.com/in/eduardzs/">
@@ -25,7 +25,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavovianaveiga&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gustavo-vue" height="30" width="35" src="https://vuejs.org/images/logo.png">
   <img align="center" alt="Gustavo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
