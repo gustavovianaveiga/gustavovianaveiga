@@ -8,13 +8,7 @@
         <p>🗺️ moro no <strong>Brasil</strong>, mais especificamente no estado da <strong>Bahia</strong>.</p>
         <p>🧠 Habilidades: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JS</strong>, <strong>ReactJS</strong>, <strong>Git</strong> e <strong>GitHub</strong>.</p>
         <p>📚 Sempre aberto à novas oportunidades.<p>
-        <p align="left">
-		<a href="https://www.linkedin.com/in/eduardzs/">
-		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-        <a href="mailto:eduardofonseca0210@gmail.com?" alt="Gmail">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-		<a href="https://www.instagram.com/eduardzs_/" alt="Instagram">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+     
      </div>
 </div><br>
     <h1 align="center">⚙️ GitHub Analytics</h1>
@@ -33,8 +27,8 @@
 </div>
 <hr>
 <div> 
-  <a href="https://instagram.com/gstv.sk8" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatogustavovianaveiga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/gstv.viana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gustavovianaveiga721@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/gustavo-viana-veiga" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
