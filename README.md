@@ -1,4 +1,4 @@
-## Aceita um café?
+
 <div align="center">
     <h1>Bem-vindo</h1>
 </div>
