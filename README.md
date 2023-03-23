@@ -5,7 +5,7 @@
 <div>
     <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
     <div align="left"><br>
-        <p>🗺️ moro no <strong>Brasil</strong>, mais especificamente no estado da <strong>Bahia</strong>.</p>
+    
         <p>🧠 Habilidades: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JS</strong>, <strong>ReactJS</strong>, <strong>Git</strong>, <strong>PHP</strong>, <strong>Tailwind</strong> e <strong>MySQL</strong>.</p>
         <p>📚 Sempre aberto à novas oportunidades.<p>
      
