@@ -1,22 +1,27 @@
+# Hi there! I'm Gustavo Veiga
 
-<div align="center">
-    <h1>Bem-vindo</h1>
+### Stack
+<div style="display: inline_block">
+  <img align="center" alt="andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="andre-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-<br>
-    <h1 align="center">⚙️ GitHub Analytics</h1>
 
-<div align="center">
-  <a href="https://github.com/gustavovianaveiga">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavovianaveiga&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavovianaveiga&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
 <br>
-    ![github contribution grid snake animation](https://raw.githubusercontent.com/gustavovianaveiga/gustavovianaveiga/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/gustavovianaveiga/gustavovianaveiga/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <hr>
+<br>
+
 <div> 
-  <a href="https://instagram.com/gstv.veiga" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gustavovianaveiga721@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+    
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/gustavovianaveiga/gustavovianaveiga/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/gustavovianaveiga/gustavovianaveiga/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+    
+<br>
+<hr>
+<br>
+  <a href = "https://wa.me/5577991922123"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gustavovianaveiga@proton.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-viana-veiga" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
+<br>
+<br>
